@@ -1,443 +1,190 @@
-````markdown
 <div align="center">
 
 <img src="./assets/banner.svg" width="100%" alt="Ankan Kumar Daw"/>
 
 <br>
 
-<a href="https://github.com/Ankan-KD">
-<img src="https://img.shields.io/badge/GitHub-Ankan--KD-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ankan-kd">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-ff2bd6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
-</a>
-
-<a href="https://github.com/Ankan-KD">
-<img src="https://img.shields.io/badge/Portfolio-Explore-ff8a00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
+<a href="https://github.com/Ankan-KD"><img src="https://img.shields.io/badge/GitHub-Ankan--KD-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
+<a href="https://www.linkedin.com/in/ankan-kd"><img src="https://img.shields.io/badge/LinkedIn-Connect-7b2cff?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+<a href="mailto:ankandaw.24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ff7a00?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
 
 <br><br>
 
-```text
-╔════════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║   > SYSTEM STATUS: ONLINE                                         ║
-║   > MODE: BUILDING                                                 ║
-║   > FOCUS: AI / FULL-STACK / CLOUD / BACKEND                     ║
-║   > STATUS: LEARNING • BUILDING • SHIPPING                       ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
-````
-
-</div>
-
----
-
-<table>
-<tr>
-
-<td width="34%" valign="top">
-
-## `> WHOAMI`
-
-```text
-Ankan Kumar Daw
-
-Full-Stack Developer
-AI / ML Engineer
-Backend Developer
-Problem Solver
-Technology Explorer
-
-> building systems
-> learning continuously
-> shipping projects
-```
+FULL-STACK DEVELOPER  •  AI / ML ENGINEER  •  CLOUD ENTHUSIAST
 
 <br>
 
-## `> CURRENTLY EXPLORING`
-
-```text
-◆ System Design
-◆ Backend Architecture
-◆ Cloud-Native Development
-◆ AI Agents & LLM Systems
-◆ Machine Learning
-◆ Cybersecurity & DevOps
-```
+Building practical software systems with intelligent features, scalable backends, and modern web technologies.
 
 <br>
 
-## `> CONNECT WITH ME`
-
-**Portfolio And Projects**
-
-[Explore my developer portfolio](https://github.com/Ankan-KD)
-
-**Professional Networking**
-
-[Connect with me on LinkedIn](https://www.linkedin.com/in/ankan-kd)
-
-**Developer Profile**
-
-[Explore my GitHub profile](https://github.com/Ankan-KD)
-
-**Direct Email Contact**
-
-[ankandaw.24@gmail.com](mailto:ankandaw.24@gmail.com)
-
-</td>
-
-<td width="66%" valign="top">
-
-## `> GITHUB INSIGHTS`
-
-<img src="./github-metrics.svg" width="100%" alt="GitHub Metrics Dashboard"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `> TECHNOLOGY MATRIX`
+> SYSTEM STATUS : ONLINE
+> MODE          : BUILDING
+> FOCUS         : AI / FULL-STACK / CLOUD / BACKEND
+> STATUS        : LEARNING • BUILDING • SHIPPING
 
 </div>
+
+> WHOAMI
+
+I am Ankan Kumar Daw, a developer focused on full-stack engineering, artificial intelligence, machine learning, cloud computing, and backend systems.
+
+Currently pursuing my MCA, I enjoy turning ideas into complete working systems — from frontend interfaces and APIs to databases, machine-learning components, deployment, and automation.
+
+My projects span AI-assisted development tools, healthcare management, nutrition applications, computer vision systems, staff-management platforms, and IoT/security-oriented solutions.
+
+> GITHUB INSIGHTS
+
+<div align="center">
+<img src="./github-metrics.svg" width="100%" alt="GitHub Metrics"/>
+</div>
+
+> WHAT I BUILD
 
 <table>
 <tr>
+<td width="50%">
 
-<td align="center" width="20%">
+01 — FULL-STACK SYSTEMS
 
-### PROGRAMMING LANGUAGES
-
-JavaScript
-TypeScript
-Python
-Java
-C / C++
+Building complete web applications with clean interfaces, APIs, databases, authentication, and production-oriented architecture.
 
 </td>
+<td width="50%">
 
-<td align="center" width="20%">
+02 — AI / MACHINE LEARNING
 
-### FRONTEND ENGINEERING
-
-React
-Next.js
-HTML
-CSS
-Tailwind CSS
+Creating intelligent applications using machine learning, computer vision, AI-assisted workflows, and practical automation.
 
 </td>
+</tr>
+<tr>
+<td width="50%">
 
-<td align="center" width="20%">
+03 — BACKEND ARCHITECTURE
 
-### BACKEND ENGINEERING
-
-Node.js
-Express
-Spring Boot
-REST APIs
-Authentication
+Designing reliable backend services, REST APIs, database systems, integrations, and scalable application structures.
 
 </td>
+<td width="50%">
 
-<td align="center" width="20%">
+04 — CLOUD & DEVOPS
 
-### DATABASE SYSTEMS
-
-MongoDB
-PostgreSQL
-MySQL
-Firebase
-Supabase
+Exploring deployment, containers, cloud infrastructure, CI/CD workflows, developer automation, and modern engineering practices.
 
 </td>
-
-<td align="center" width="20%">
-
-### ARTIFICIAL INTELLIGENCE
-
-Python
-TensorFlow
-Scikit-learn
-OpenCV
-Machine Learning
-
-</td>
-
 </tr>
 </table>
 
----
+> TECH STACK
 
 <div align="center">
 
-## `> DEVELOPMENT STACK`
+LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs,express,spring,mongodb,postgres,mysql,firebase,supabase,aws,docker,git,github,linux,postman,vscode,tensorflow,opencv&perline=12" width="90%" alt="Technology stack"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" />
+
+WEB & BACKEND
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,spring" />
+
+DATABASES
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase" />
+
+AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn,pytorch" />
+
+CLOUD / DEVOPS / TOOLS
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,jenkins,postman,vscode,figma" />
 
 </div>
 
----
+> CURRENTLY EXPLORING
 
-<table>
-<tr>
+[01] SYSTEM DESIGN
+[02] ADVANCED BACKEND ARCHITECTURE
+[03] CLOUD-NATIVE DEVELOPMENT
+[04] AI AGENTS & LLM INTEGRATIONS
+[05] CYBERSECURITY & DEVOPS
 
-<td width="50%" valign="top">
+> FEATURED WORK
 
-## `> ENGINEERING PROFILE`
+CODEPULSE
 
-```text
-┌─────────────────────────────────────┐
-│                                     │
-│  FULL-STACK DEVELOPMENT             │
-│  AI / MACHINE LEARNING              │
-│  BACKEND ARCHITECTURE               │
-│  CLOUD COMPUTING                    │
-│  DATABASE ENGINEERING               │
-│  COMPUTER VISION                    │
-│  DEVOPS & AUTOMATION                │
-│                                     │
-└─────────────────────────────────────┘
-```
+AI-powered deployment risk intelligence platform
 
-</td>
+A development-focused system designed around analyzing code changes and identifying potential deployment risks through intelligent analysis.
 
-<td width="50%" valign="top">
+Focus: AI BACKEND DEPLOYMENT RISK ANALYSIS
 
-## `> DEVELOPMENT MINDSET`
+AI-ASSISTED DEPLOYMENT ANALYSIS
 
-```text
-┌─────────────────────────────────────┐
-│                                     │
-│  LEARN → BUILD → TEST               │
-│                                     │
-│  DEBUG → IMPROVE → SHIP             │
-│                                     │
-│  REPEAT → SCALE → INNOVATE          │
-│                                     │
-└─────────────────────────────────────┘
-```
+A project exploring intelligent analysis of software changes and deployment-related risk factors.
 
-</td>
+Focus: AI/ML SOFTWARE ENGINEERING AUTOMATION
 
-</tr>
-</table>
+HEALTHCARE & NUTRITION SYSTEMS
 
----
+Applications focused on healthcare management, nutrition workflows, structured data handling, and practical user-facing functionality.
 
-## `> FEATURED SYSTEMS`
+Focus: FULL-STACK DATABASES APPLICATION DESIGN
 
-<table>
-<tr>
+COMPUTER VISION SYSTEMS
 
-<td width="50%" valign="top">
+Projects exploring image processing, computer vision, and machine-learning techniques for practical problem solving.
 
-### `01 // CODEPULSE`
+Focus: PYTHON OPENCV MACHINE LEARNING
 
-**AI-powered deployment intelligence platform**
+> ENGINEERING MINDSET
 
-A practical system focused on analyzing software changes and identifying potential deployment risks through intelligent analysis.
+BUILD THE SYSTEM
+        ↓
+UNDERSTAND THE PROBLEM
+        ↓
+DESIGN THE ARCHITECTURE
+        ↓
+IMPLEMENT THE SOLUTION
+        ↓
+TEST THE EDGE CASES
+        ↓
+DEPLOY • MEASURE • IMPROVE
 
-**Core Engineering Areas**
+I care about understanding how complete systems work, not only writing isolated pieces of code.
 
-* Artificial intelligence assisted analysis
-* Backend service architecture
-* Deployment intelligence systems
-* Risk prediction workflows
-* Developer productivity tooling
+That means exploring the entire path from user interface to backend services, databases, APIs, machine-learning components, infrastructure, and deployment.
 
-</td>
-
-<td width="50%" valign="top">
-
-### `02 // HEALTHCARE SYSTEM`
-
-**Full-stack healthcare management platform**
-
-A software system designed around healthcare workflows, structured information, application functionality, and reliable backend services.
-
-**Core Engineering Areas**
-
-* Full-stack application development
-* Database architecture
-* Backend API development
-* User management systems
-* Application architecture
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### `03 // NUTRITION PLATFORM`
-
-**Intelligent nutrition application**
-
-A practical application focused on nutrition-related workflows, structured information, data processing, and user-facing functionality.
-
-**Core Engineering Areas**
-
-* Web application development
-* Data processing systems
-* Application business logic
-* Backend services
-* User experience
-
-</td>
-
-<td width="50%" valign="top">
-
-### `04 // COMPUTER VISION`
-
-**Computer vision and intelligent analysis**
-
-Projects involving image processing, computer vision techniques, machine learning workflows, and intelligent visual analysis.
-
-**Core Engineering Areas**
-
-* Python development
-* OpenCV
-* Image processing
-* Machine learning
-* Artificial intelligence
-
-</td>
-
-</tr>
-</table>
-
----
+> CONNECT WITH ME
 
 <div align="center">
 
-## `> CONTRIBUTION ACTIVITY`
+<a href="https://github.com/Ankan-KD"><img src="https://img.shields.io/badge/GitHub-Ankan--KD-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ankan-kd"><img src="https://img.shields.io/badge/LinkedIn-Ankan--KD-7b2cff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ankandaw.24@gmail.com"><img src="https://img.shields.io/badge/Email-ankandaw.24%40gmail.com-ff7a00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankan-KD&bg_color=05030d&color=ff8a00&line=8b5cf6&point=ff2bd6&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
+<br><br>
+
+<a href="https://github.com/Ankan-KD"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-GitHub-9b5cff?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
-
----
 
 <div align="center">
 
-## `> GITHUB SIGNAL`
+while (alive) {
+    learn();
+    build();
+    innovate();
+    repeat();
+}
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ankan-KD&show_icons=true&theme=radical&hide_border=true&bg_color=05030d&title_color=ff8a00&icon_color=ff2bd6&text_color=e5e7eb" width="49%" alt="GitHub statistics"/>
+BUILD • LEARN • SHIP • REPEAT
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankan-KD&theme=radical&hide_border=true&background=05030d&ring=ff8a00&fire=ff2bd6&currStreakLabel=ff8a00" width="49%" alt="GitHub streak statistics"/>
+<sub>Clean code • Efficient systems • Intelligent solutions</sub>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-## `> LANGUAGE ACTIVITY`
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankan-KD&layout=compact&theme=radical&hide_border=true&bg_color=05030d&title_color=ff8a00&text_color=e5e7eb" width="55%" alt="Most used programming languages"/>
-
-</div>
-
----
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## `> WHAT I BUILD`
-
-```text
-[01] Intelligent Applications
-
-[02] Full-Stack Platforms
-
-[03] Machine Learning Systems
-
-[04] Backend Architectures
-
-[05] Cloud-Native Solutions
-
-[06] Developer Automation
-
-[07] Computer Vision Systems
-
-[08] Data-Driven Applications
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-## `> WHAT I VALUE`
-
-```text
-[01] Clean Architecture
-
-[02] Maintainable Code
-
-[03] Reliable Systems
-
-[04] Practical Innovation
-
-[05] Continuous Learning
-
-[06] Performance Engineering
-
-[07] Security Awareness
-
-[08] Real-World Impact
-```
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `> ENGINEERING PHILOSOPHY`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  while (alive) {                                             ║
-║                                                              ║
-║      learn();                                                ║
-║      build();                                                ║
-║      break_things();                                         ║
-║      understand();                                           ║
-║      improve();                                               ║
-║      innovate();                                             ║
-║      repeat();                                               ║
-║                                                              ║
-║  }                                                           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-```text
-CLEAN CODE  •  EFFICIENT SYSTEMS  •  IMPACTFUL SOLUTIONS
-```
-
-<br>
-
-### `> SYSTEM END // KEEP BUILDING`
+<img src="https://komarev.com/ghpvc/?username=Ankan-KD&style=for-the-badge&color=7b2cff" alt="Profile views"/>
 
 </div>
-```
