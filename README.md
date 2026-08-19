@@ -62,6 +62,18 @@ These cards pull live data straight from the GitHub API — they update automati
 
 </sub>
 
+> CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankan-KD/Ankan-KD/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ankan-KD/Ankan-KD/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Ankan-KD/Ankan-KD/output/snake.svg" width="100%"/>
+</picture>
+
+</div>
+
 > WHAT I BUILD
 
 <table>
