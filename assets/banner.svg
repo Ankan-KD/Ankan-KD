@@ -1,1 +1,80 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260"
+xmlns="http://www.w3.org/2000/svg">
 
+<defs>
+
+<linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#ff8a00"/>
+<stop offset="45%" stop-color="#ff2bd6"/>
+<stop offset="100%" stop-color="#8b5cf6"/>
+</linearGradient>
+
+<linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#ff8a00"/>
+<stop offset="50%" stop-color="#ff2bd6"/>
+<stop offset="100%" stop-color="#7c3aed"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="5" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+</defs>
+
+<rect width="1200" height="260" rx="18"
+fill="#05030d"
+stroke="url(#border)"
+stroke-width="2"/>
+
+<path d="M20 220 L150 220 L190 180 L300 180"
+stroke="#ff8a00"
+stroke-width="2"
+fill="none"/>
+
+<path d="M900 45 L1030 45 L1080 80 L1180 80"
+stroke="#8b5cf6"
+stroke-width="2"
+fill="none"/>
+
+<circle cx="75" cy="55" r="3" fill="#ff8a00"/>
+<circle cx="95" cy="55" r="3" fill="#ff2bd6"/>
+<circle cx="115" cy="55" r="3" fill="#8b5cf6"/>
+
+<text x="600" y="105"
+text-anchor="middle"
+font-family="Arial, Helvetica, sans-serif"
+font-size="62"
+font-weight="700"
+fill="url(#title)"
+filter="url(#glow)">
+ANKAN KUMAR DAW
+</text>
+
+<text x="600" y="145"
+text-anchor="middle"
+font-family="monospace"
+font-size="19"
+fill="#e5e7eb">
+FULL-STACK DEVELOPER • AI/ML ENGINEER • CLOUD ENTHUSIAST
+</text>
+
+<rect x="270" y="170"
+width="660"
+height="48"
+rx="8"
+fill="#090613"
+stroke="#6d28d9"/>
+
+<text x="600" y="201"
+text-anchor="middle"
+font-family="monospace"
+font-size="17"
+fill="#ff9d00">
+while(alive) { learn(); build(); innovate(); repeat(); }
+</text>
+
+</svg>
