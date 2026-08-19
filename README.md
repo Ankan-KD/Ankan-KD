@@ -10,9 +10,9 @@
 
 <br>
 
-<a href="https://github.com/Ankan-KD"><img src="https://img.shields.io/badge/GitHub-Ankan--KD-0d1117?style=flat-square&logo=github&logoColor=ffffff"/></a>
-<a href="https://www.linkedin.com/in/akd5544/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8770D1?style=flat-square&logo=linkedin&logoColor=ffffff"/></a>
-<a href="mailto:ankandaw.24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D99A5B?style=flat-square&logo=gmail&logoColor=ffffff"/></a>
+<a href="https://github.com/Ankan-KD"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
+<a href="https://www.linkedin.com/in/akd5544/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+<a href="mailto:ankandaw.24@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
 
 <br><br>
 
@@ -132,56 +132,74 @@ A handful of the systems I've built end-to-end — the write-ups below are the o
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**AI Deployment-Risk Platform**
+<img src="https://img.shields.io/badge/-AI%20DEPLOYMENT%20RISK%20PLATFORM-8770D1?style=flat-square&labelColor=8770D1" width="100%"/>
+
 Analyzes Git changes and predicts deployment risk using a Scikit-learn model, with dependency-graph analysis and Gemini-generated insights.
+
 `React` `Spring Boot` `FastAPI` `PostgreSQL`
-[View →](https://github.com/Ankan-KD/codepulse)
+
+[View repository →](https://github.com/Ankan-KD/codepulse)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Hospital Management System**
+<img src="https://img.shields.io/badge/-HOSPITAL%20MANAGEMENT%20SYSTEM-D99A5B?style=flat-square&labelColor=D99A5B" width="100%"/>
+
 Four role-based portals covering appointments, e-consultancy, ambulance dispatch, blood-bank inventory, billing, and an AI chatbot — 500+ patient records.
+
 `PHP` `MySQL` `Firebase`
-[View →](https://github.com/Ankan-KD/major-project)
+
+[View repository →](https://github.com/Ankan-KD/major-project)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Nutrition & Fitness Companion**
+<img src="https://img.shields.io/badge/-NUTRITION%20%26%20FITNESS%20COMPANION-D99A5B?style=flat-square&labelColor=D99A5B" width="100%"/>
+
 Tracks meals, weight, and nutrition toward personal goals, with a Gemini-powered AI coach and Supabase-backed cloud sync.
+
 `Next.js` `TypeScript` `Supabase`
-[View →](https://github.com/Ankan-KD/BulkUp)
+
+[View repository →](https://github.com/Ankan-KD/BulkUp)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Laundry Service Booking Platform**
+<img src="https://img.shields.io/badge/-LAUNDRY%20SERVICE%20BOOKING%20PLATFORM-8770D1?style=flat-square&labelColor=8770D1" width="100%"/>
+
 Customer-facing order booking with service selection, address management, OTP-verified admin access, and order tracking.
+
 `Node.js` `Express` `MongoDB`
-[View →](https://github.com/Ankan-KD/Kleanz-Laundry-Services)
+
+[View repository →](https://github.com/Ankan-KD/Kleanz-Laundry-Services)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Computer-Vision Attendance System**
+<img src="https://img.shields.io/badge/-COMPUTER%20VISION%20ATTENDANCE%20SYSTEM-8770D1?style=flat-square&labelColor=8770D1" width="100%"/>
+
 Facial-recognition attendance pipeline at ~90% detection accuracy, with automated logging and CSV export.
+
 `Flask` `OpenCV` `Python`
-[View →](https://github.com/Ankan-KD/Face-recognition)
+
+[View repository →](https://github.com/Ankan-KD/Face-recognition)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Staff Management Platform**
+<img src="https://img.shields.io/badge/-STAFF%20MANAGEMENT%20PLATFORM-D99A5B?style=flat-square&labelColor=D99A5B" width="100%"/>
+
 REST-based backend managing 1,000+ employee records with secure CRUD operations.
+
 `Node.js` `MongoDB`
-[View →](https://github.com/Ankan-KD/Staff-Management-Project)
+
+[View repository →](https://github.com/Ankan-KD/Staff-Management-Project)
 
 </td>
 </tr>
@@ -209,9 +227,9 @@ I care about how complete systems work, not just isolated pieces of code — whi
 
 <br><br>
 
-<a href="https://github.com/Ankan-KD"><img src="https://img.shields.io/badge/GitHub-Ankan--KD-111111?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/akd5544/"><img src="https://img.shields.io/badge/LinkedIn-Ankan--KD-8770D1?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ankandaw.24@gmail.com"><img src="https://img.shields.io/badge/Email-ankandaw.24%40gmail.com-D99A5B?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Ankan-KD"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/akd5544/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ankandaw.24@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br><br>
 
