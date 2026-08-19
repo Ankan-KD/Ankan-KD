@@ -5,12 +5,12 @@
 <br>
 
 <a href="https://github.com/Ankan-KD"><img src="https://img.shields.io/badge/GitHub-Ankan--KD-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
-<a href="https://www.linkedin.com/in/ankan-kd"><img src="https://img.shields.io/badge/LinkedIn-Connect-7b2cff?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+<a href="https://www.linkedin.com/in/akd5544/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7b2cff?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
 <a href="mailto:ankandaw.24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ff7a00?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
 
 <br><br>
 
-FULL-STACK DEVELOPER  •  AI / ML ENGINEER  •  CLOUD ENTHUSIAST
+FULL-STACK DEVELOPER  •  AI / ML ENGINEER  •  CLOUD ENTHUSIAST
 
 <br>
 
@@ -27,11 +27,11 @@ Building practical software systems with intelligent features, scalable backends
 
 > WHOAMI
 
-I am Ankan Kumar Daw, a developer focused on full-stack engineering, artificial intelligence, machine learning, cloud computing, and backend systems.
+I am Ankan Kumar Daw, a full-stack developer working across the MERN stack, Python, Spring Boot, and AWS — currently pursuing my MCA at Techno Main Salt Lake, after a BCA from NSHM College of Management & Technology.
 
-Currently pursuing my MCA, I enjoy turning ideas into complete working systems — from frontend interfaces and APIs to databases, machine-learning components, deployment, and automation.
+I like taking a project from a blank repo to a fully working system: frontend interfaces, REST APIs, databases, ML models, and deployment — end to end, not just isolated pieces.
 
-My projects span AI-assisted development tools, healthcare management, nutrition applications, computer vision systems, staff-management platforms, and IoT/security-oriented solutions.
+My work spans AI-assisted developer tooling, hospital/healthcare management, nutrition & fitness apps, computer-vision attendance systems, staff-management platforms, and IoT security automation.
 
 > GITHUB INSIGHTS
 
@@ -47,14 +47,14 @@ My projects span AI-assisted development tools, healthcare management, nutrition
 
 01 — FULL-STACK SYSTEMS
 
-Building complete web applications with clean interfaces, APIs, databases, authentication, and production-oriented architecture.
+Multi-role platforms with clean UIs, REST APIs, authentication, and production-oriented architecture — from hospital management portals to service-booking platforms.
 
 </td>
 <td width="50%">
 
 02 — AI / MACHINE LEARNING
 
-Creating intelligent applications using machine learning, computer vision, AI-assisted workflows, and practical automation.
+Practical ML integrations: risk-prediction models, computer-vision attendance systems, and Gemini-powered assistants layered into real applications.
 
 </td>
 </tr>
@@ -63,14 +63,14 @@ Creating intelligent applications using machine learning, computer vision, AI-as
 
 03 — BACKEND ARCHITECTURE
 
-Designing reliable backend services, REST APIs, database systems, integrations, and scalable application structures.
+Designing REST APIs and services across Node.js/Express, Spring Boot, FastAPI, and PHP, backed by MongoDB, PostgreSQL, and MySQL.
 
 </td>
 <td width="50%">
 
 04 — CLOUD & DEVOPS
 
-Exploring deployment, containers, cloud infrastructure, CI/CD workflows, developer automation, and modern engineering practices.
+Docker Compose multi-service stacks, AWS (S3, Lambda, SageMaker), Firebase, and CI-friendly project structure.
 
 </td>
 </tr>
@@ -82,11 +82,11 @@ Exploring deployment, containers, cloud infrastructure, CI/CD workflows, develop
 
 LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,php" />
 
 WEB & BACKEND
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,spring" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,spring,flask,tailwind" />
 
 DATABASES
 
@@ -98,7 +98,7 @@ AI / ML
 
 CLOUD / DEVOPS / TOOLS
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,jenkins,postman,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,arduino,postman,vscode,figma" />
 
 </div>
 
@@ -112,31 +112,99 @@ CLOUD / DEVOPS / TOOLS
 
 > FEATURED WORK
 
-CODEPULSE
+<table>
+<tr>
+<td width="50%">
 
-AI-powered deployment risk intelligence platform
+**CODEPULSE**
+AI-powered deployment-risk intelligence platform
 
-A development-focused system designed around analyzing code changes and identifying potential deployment risks through intelligent analysis.
+Analyzes Git changes and predicts deployment risk using a Scikit-learn GradientBoosting model, with dependency-graph analysis, GitHub REST + JGit integration, JWT auth, and Gemini-generated insights.
 
-Focus: AI BACKEND DEPLOYMENT RISK ANALYSIS
+`React` `Spring Boot` `FastAPI` `Scikit-learn` `PostgreSQL` `Docker`
 
-AI-ASSISTED DEPLOYMENT ANALYSIS
+[→ Repo](https://github.com/Ankan-KD/codepulse)
 
-A project exploring intelligent analysis of software changes and deployment-related risk factors.
+</td>
+<td width="50%">
 
-Focus: AI/ML SOFTWARE ENGINEERING AUTOMATION
+**CLINICAL FLOW AUTOMATION PLATFORM**
+Hospital management system
 
-HEALTHCARE & NUTRITION SYSTEMS
+Four role-based portals (Admin / Doctor / Patient / Staff) covering appointments, e-consultancy, ambulance dispatch, blood-bank inventory, bed allocation, billing, and an AI chatbot — handling 500+ patient records.
 
-Applications focused on healthcare management, nutrition workflows, structured data handling, and practical user-facing functionality.
+`PHP` `MySQL` `JavaScript` `Firebase` `Tailwind`
 
-Focus: FULL-STACK DATABASES APPLICATION DESIGN
+[→ Repo](https://github.com/Ankan-KD/major-project)
 
-COMPUTER VISION SYSTEMS
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-Projects exploring image processing, computer vision, and machine-learning techniques for practical problem solving.
+**BODYBUDDY**
+Goal-based nutrition companion
 
-Focus: PYTHON OPENCV MACHINE LEARNING
+Tracks meals, weight, and nutrition toward gain/lose/maintain goals, with a Gemini-powered AI coach for real-time "what can I eat right now?" guidance, streaks, and Supabase-backed cloud sync.
+
+`Next.js 15` `TypeScript` `Tailwind` `Supabase` `Gemini API`
+
+[→ Repo](https://github.com/Ankan-KD/weight-gain-tracker)
+
+</td>
+<td width="50%">
+
+**SERVICEOPS — LAUNDRY PLATFORM**
+Booking & tracking platform for laundry businesses
+
+Customer-facing order booking with service selection (laundry/dry cleaning), address management, OTP-verified admin access, order-status tracking, and subscription/contact handling.
+
+`Node.js` `Express` `MongoDB` `Nodemailer`
+
+[→ Repo](https://github.com/Ankan-KD/MINOR_PROJECT_BCA)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**REAL-TIME FACE DETECTION ATTENDANCE**
+Computer-vision attendance system
+
+Facial-recognition attendance pipeline achieving ~90% detection accuracy, with automated logging, CSV export, and an optimized image-processing pipeline.
+
+`Flask` `OpenCV` `face_recognition` `Python`
+
+</td>
+<td width="50%">
+
+**STAFF MANAGEMENT SYSTEM**
+Employee records platform
+
+REST-based backend for managing 1,000+ employee records with secure CRUD operations, built for efficient day-to-day HR/staff administration.
+
+`JavaScript` `Node.js` `MongoDB`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>+ IoT Intrusion Detection & Alert System</b></summary>
+<br>
+Motion-sensor-based intrusion detection with real-time monitoring and automated email alerts on trigger.
+<br><br>
+
+`Arduino Uno` `Java` `SMTP`
+
+</details>
+
+> CERTIFICATIONS
+
+- Introduction to Modern AI — Cisco Networking Academy (2026)
+- Cyber Security Fundamentals — Palo Alto Networks (2024)
+- Web Development with HTML, CSS, JavaScript — IBM (2023)
+- AWS AI & Machine Learning Foundations — AWS Academy
 
 > ENGINEERING MINDSET
 
@@ -161,7 +229,7 @@ That means exploring the entire path from user interface to backend services, da
 <div align="center">
 
 <a href="https://github.com/Ankan-KD"><img src="https://img.shields.io/badge/GitHub-Ankan--KD-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ankan-kd"><img src="https://img.shields.io/badge/LinkedIn-Ankan--KD-7b2cff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/akd5544/"><img src="https://img.shields.io/badge/LinkedIn-Ankan--KD-7b2cff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ankandaw.24@gmail.com"><img src="https://img.shields.io/badge/Email-ankandaw.24%40gmail.com-ff7a00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br><br>
