@@ -2,44 +2,45 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Ankan Kumar Daw"/>
 
+<br><br>
+
+# Ankan Kumar Daw
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=8770D1&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%2F+ML+Engineer;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG"/>
+
 <br>
 
-<a href="https://github.com/Ankan-KD"><img src="https://img.shields.io/badge/GitHub-Ankan--KD-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
-<a href="https://www.linkedin.com/in/akd5544/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7b2cff?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-<a href="mailto:ankandaw.24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ff7a00?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
+<a href="https://github.com/Ankan-KD"><img src="https://img.shields.io/badge/GitHub-Ankan--KD-0d1117?style=flat-square&logo=github&logoColor=ffffff"/></a>
+<a href="https://www.linkedin.com/in/akd5544/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8770D1?style=flat-square&logo=linkedin&logoColor=ffffff"/></a>
+<a href="mailto:ankandaw.24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D99A5B?style=flat-square&logo=gmail&logoColor=ffffff"/></a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7B2CFF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%2F+ML+Engineer;Cloud+%26+DevOps+Enthusiast;Building+CodePulse+%E2%80%94+AI+Risk+Platform;Turning+Ideas+Into+Shipped+Systems" alt="Typing SVG"/>
-
-<br>
-
-Building practical software systems with intelligent features, scalable backends, and modern web technologies.
-
-<br>
-
-> SYSTEM STATUS : ONLINE
-> MODE          : BUILDING
-> FOCUS         : AI / FULL-STACK / CLOUD / BACKEND
-> STATUS        : LEARNING • BUILDING • SHIPPING
+<sub>Building practical software systems with intelligent features, scalable backends, and modern web technologies.</sub>
 
 </div>
 
-> WHOAMI
+<br>
 
-I am Ankan Kumar Daw, a full-stack developer working across the MERN stack, Python, Spring Boot, and AWS — currently pursuing my MCA at Techno Main Salt Lake, after a BCA from NSHM College of Management & Technology.
+<img src="https://img.shields.io/badge/-WHO%20I%20AM-8770D1?style=flat-square&labelColor=0d1117"/>
 
-I like taking a project from a blank repo to a fully working system: frontend interfaces, REST APIs, databases, ML models, and deployment — end to end, not just isolated pieces.
+I'm a full-stack developer working across the MERN stack, Python, Spring Boot, and AWS — currently pursuing my MCA at Techno Main Salt Lake, after a BCA from NSHM College of Management & Technology.
 
-My work spans AI-assisted developer tooling, hospital/healthcare management, nutrition & fitness apps, computer-vision attendance systems, staff-management platforms, and IoT security automation.
+I like taking a project from a blank repo to a fully working system — frontend interfaces, REST APIs, databases, ML models, and deployment — end to end, not just isolated pieces. Over the last couple of years that's meant building AI-assisted developer tooling, hospital and healthcare platforms, nutrition and fitness apps, computer-vision systems, staff-management tools, and IoT security automation.
 
-> GITHUB INSIGHTS
+I care more about understanding how a whole system fits together than about any single piece of code, which is why most of what I build spans the full stack — UI down to infrastructure.
+
+<br>
+
+<img src="https://img.shields.io/badge/-GITHUB%20INSIGHTS-D99A5B?style=flat-square&labelColor=0d1117"/>
 
 <div align="center">
 <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics"/>
 </div>
 
-> LIVE STATS
+<br>
+
+<img src="https://img.shields.io/badge/-LIVE%20STATS-8770D1?style=flat-square&labelColor=0d1117"/>
 
 <div align="center">
 
@@ -52,230 +53,172 @@ My work spans AI-assisted developer tooling, hospital/healthcare management, nut
 
 </div>
 
-<sub align="center">
+<sub align="center">These update automatically from GitHub — no need to touch this section again.</sub>
 
-These cards pull live data straight from the GitHub API — they update automatically as you push commits, gain stars, and build streaks, so this section never goes stale.
+<br><br>
 
-</sub>
-
-> WHAT I BUILD
+<img src="https://img.shields.io/badge/-WHAT%20I%20BUILD-D99A5B?style=flat-square&labelColor=0d1117"/>
 
 <table>
 <tr>
 <td width="50%">
 
-01 — FULL-STACK SYSTEMS
-
-Multi-role platforms with clean UIs, REST APIs, authentication, and production-oriented architecture — from hospital management portals to service-booking platforms.
+**Full-Stack Systems**
+Multi-role platforms with clean UIs, REST APIs, authentication, and production-oriented architecture.
 
 </td>
 <td width="50%">
 
-02 — AI / MACHINE LEARNING
-
-Practical ML integrations: risk-prediction models, computer-vision attendance systems, and Gemini-powered assistants layered into real applications.
+**AI / Machine Learning**
+Practical ML integrations — risk-prediction models, computer-vision pipelines, and Gemini-powered assistants.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-03 — BACKEND ARCHITECTURE
-
-Designing REST APIs and services across Node.js/Express, Spring Boot, FastAPI, and PHP, backed by MongoDB, PostgreSQL, and MySQL.
+**Backend Architecture**
+REST APIs and services across Node.js/Express, Spring Boot, FastAPI, and PHP, backed by MongoDB, PostgreSQL, and MySQL.
 
 </td>
 <td width="50%">
 
-04 — CLOUD & DEVOPS
-
+**Cloud & DevOps**
 Docker Compose multi-service stacks, AWS (S3, Lambda, SageMaker), Firebase, and CI-friendly project structure.
 
 </td>
 </tr>
 </table>
 
-> TECH STACK
+<br>
+
+<img src="https://img.shields.io/badge/-TECH%20STACK-8770D1?style=flat-square&labelColor=0d1117"/>
 
 <div align="center">
 
-LANGUAGES
-
+<sub>LANGUAGES</sub>
+<br>
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,php" />
 
-WEB & BACKEND
-
+<sub>WEB & BACKEND</sub>
+<br>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,spring,flask,tailwind" />
 
-DATABASES
-
+<sub>DATABASES</sub>
+<br>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase" />
 
-AI / ML
-
+<sub>AI / ML</sub>
+<br>
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn,pytorch" />
 
-CLOUD / DEVOPS / TOOLS
-
+<sub>CLOUD / DEVOPS / TOOLS</sub>
+<br>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,arduino,postman,vscode,figma" />
 
 </div>
 
-> CURRENTLY EXPLORING
+<br>
 
-[01] SYSTEM DESIGN
-[02] ADVANCED BACKEND ARCHITECTURE
-[03] CLOUD-NATIVE DEVELOPMENT
-[04] AI AGENTS & LLM INTEGRATIONS
-[05] CYBERSECURITY & DEVOPS
+<img src="https://img.shields.io/badge/-CURRENTLY%20EXPLORING-D99A5B?style=flat-square&labelColor=0d1117"/>
 
-> FEATURED WORK
+System design · Advanced backend architecture · Cloud-native development · AI agents & LLM integrations · Cybersecurity & DevSecOps
+
+<br>
+
+<img src="https://img.shields.io/badge/-SELECTED%20WORK-8770D1?style=flat-square&labelColor=0d1117"/>
+
+A handful of the systems I've built end-to-end — the write-ups below are the overview; the code is a click away if you want to dig in.
 
 <table>
 <tr>
 <td width="50%">
 
-**CODEPULSE**
-AI-powered deployment-risk intelligence platform
-
-Analyzes Git changes and predicts deployment risk using a Scikit-learn GradientBoosting model, with dependency-graph analysis, GitHub REST + JGit integration, JWT auth, and Gemini-generated insights.
-
-`React` `Spring Boot` `FastAPI` `Scikit-learn` `PostgreSQL` `Docker`
-
-[→ Repo](https://github.com/Ankan-KD/codepulse)
+**AI Deployment-Risk Platform**
+Analyzes Git changes and predicts deployment risk using a Scikit-learn model, with dependency-graph analysis and Gemini-generated insights.
+`React` `Spring Boot` `FastAPI` `PostgreSQL`
+[View →](https://github.com/Ankan-KD/codepulse)
 
 </td>
 <td width="50%">
 
-**CLINICAL FLOW AUTOMATION PLATFORM**
-Hospital management system
-
-Four role-based portals (Admin / Doctor / Patient / Staff) covering appointments, e-consultancy, ambulance dispatch, blood-bank inventory, bed allocation, billing, and an AI chatbot — handling 500+ patient records.
-
-`PHP` `MySQL` `JavaScript` `Firebase` `Tailwind`
-
-[→ Repo](https://github.com/Ankan-KD/major-project)
+**Hospital Management System**
+Four role-based portals covering appointments, e-consultancy, ambulance dispatch, blood-bank inventory, billing, and an AI chatbot — 500+ patient records.
+`PHP` `MySQL` `Firebase`
+[View →](https://github.com/Ankan-KD/major-project)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**BODYBUDDY (BULKUP)**
-Goal-based nutrition companion
-
-Tracks meals, weight, and nutrition toward gain/lose/maintain goals, with a Gemini-powered AI coach for real-time "what can I eat right now?" guidance, streaks, and Supabase-backed cloud sync.
-
-`Next.js 15` `TypeScript` `Tailwind` `Supabase` `Gemini API`
-
-[→ Repo](https://github.com/Ankan-KD/BulkUp)
+**Nutrition & Fitness Companion**
+Tracks meals, weight, and nutrition toward personal goals, with a Gemini-powered AI coach and Supabase-backed cloud sync.
+`Next.js` `TypeScript` `Supabase`
+[View →](https://github.com/Ankan-KD/BulkUp)
 
 </td>
 <td width="50%">
 
-**KLEANZ — LAUNDRY SERVICE PLATFORM**
-Booking & tracking platform for laundry businesses
-
-Customer-facing order booking with service selection (laundry/dry cleaning), address management, OTP-verified admin access, order-status tracking, and subscription/contact handling.
-
-`Node.js` `Express` `MongoDB` `Nodemailer`
-
-[→ Repo](https://github.com/Ankan-KD/Kleanz-Laundry-Services)
+**Laundry Service Booking Platform**
+Customer-facing order booking with service selection, address management, OTP-verified admin access, and order tracking.
+`Node.js` `Express` `MongoDB`
+[View →](https://github.com/Ankan-KD/Kleanz-Laundry-Services)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**REAL-TIME FACE DETECTION ATTENDANCE**
-Computer-vision attendance system
-
-Facial-recognition attendance pipeline achieving ~90% detection accuracy, with automated logging, CSV export, and an optimized image-processing pipeline.
-
-`Flask` `OpenCV` `face_recognition` `Python`
-
-[→ Repo](https://github.com/Ankan-KD/Face-recognition)
+**Computer-Vision Attendance System**
+Facial-recognition attendance pipeline at ~90% detection accuracy, with automated logging and CSV export.
+`Flask` `OpenCV` `Python`
+[View →](https://github.com/Ankan-KD/Face-recognition)
 
 </td>
 <td width="50%">
 
-**STAFF MANAGEMENT SYSTEM**
-Employee records platform
-
-REST-based backend for managing 1,000+ employee records with secure CRUD operations, built for efficient day-to-day HR/staff administration.
-
-`JavaScript` `Node.js` `MongoDB`
-
-[→ Repo](https://github.com/Ankan-KD/Staff-Management-Project)
+**Staff Management Platform**
+REST-based backend managing 1,000+ employee records with secure CRUD operations.
+`Node.js` `MongoDB`
+[View →](https://github.com/Ankan-KD/Staff-Management-Project)
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>+ IoT Intrusion Detection & Alert System</b></summary>
 <br>
-Motion-sensor-based intrusion detection with real-time monitoring and automated email alerts on trigger.
-<br><br>
 
-`Arduino Uno` `Java` `SMTP`
+<img src="https://img.shields.io/badge/-CERTIFICATIONS-D99A5B?style=flat-square&labelColor=0d1117"/>
 
-</details>
+Introduction to Modern AI (Cisco) · Cyber Security Fundamentals (Palo Alto Networks) · Web Development with HTML/CSS/JS (IBM) · AWS AI & Machine Learning Foundations (AWS Academy)
 
-> CERTIFICATIONS
+<br>
 
-- Introduction to Modern AI — Cisco Networking Academy (2026)
-- Cyber Security Fundamentals — Palo Alto Networks (2024)
-- Web Development with HTML, CSS, JavaScript — IBM (2023)
-- AWS AI & Machine Learning Foundations — AWS Academy
+<img src="https://img.shields.io/badge/-HOW%20I%20WORK-8770D1?style=flat-square&labelColor=0d1117"/>
 
-> ENGINEERING MINDSET
+Understand the problem → design the architecture → implement the solution → test the edge cases → deploy, measure, improve.
 
-BUILD THE SYSTEM
-        ↓
-UNDERSTAND THE PROBLEM
-        ↓
-DESIGN THE ARCHITECTURE
-        ↓
-IMPLEMENT THE SOLUTION
-        ↓
-TEST THE EDGE CASES
-        ↓
-DEPLOY • MEASURE • IMPROVE
+I care about how complete systems work, not just isolated pieces of code — which means following the path from interface to backend to database to infrastructure, and back again.
 
-I care about understanding how complete systems work, not only writing isolated pieces of code.
-
-That means exploring the entire path from user interface to backend services, databases, APIs, machine-learning components, infrastructure, and deployment.
-
-> CONNECT WITH ME
+<br>
 
 <div align="center">
 
-<a href="https://github.com/Ankan-KD"><img src="https://img.shields.io/badge/GitHub-Ankan--KD-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/akd5544/"><img src="https://img.shields.io/badge/LinkedIn-Ankan--KD-7b2cff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ankandaw.24@gmail.com"><img src="https://img.shields.io/badge/Email-ankandaw.24%40gmail.com-ff7a00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-LET'S%20CONNECT-D99A5B?style=flat-square&labelColor=0d1117"/>
 
 <br><br>
 
-<a href="https://github.com/Ankan-KD"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-GitHub-9b5cff?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
-<div align="center">
-
-while (alive) {
-    learn();
-    build();
-    innovate();
-    repeat();
-}
-
-BUILD • LEARN • SHIP • REPEAT
-
-<sub>Clean code • Efficient systems • Intelligent solutions</sub>
+<a href="https://github.com/Ankan-KD"><img src="https://img.shields.io/badge/GitHub-Ankan--KD-111111?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/akd5544/"><img src="https://img.shields.io/badge/LinkedIn-Ankan--KD-8770D1?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ankandaw.24@gmail.com"><img src="https://img.shields.io/badge/Email-ankandaw.24%40gmail.com-D99A5B?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Ankan-KD&style=for-the-badge&color=7b2cff" alt="Profile views"/>
+<sub>Clean code · Efficient systems · Intelligent solutions</sub>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Ankan-KD&style=flat-square&color=8770D1" alt="Profile views"/>
 
 </div>
