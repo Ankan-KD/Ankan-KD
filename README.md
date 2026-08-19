@@ -134,7 +134,7 @@ A handful of the systems I've built end-to-end — the write-ups below are the o
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/-AI%20DEPLOYMENT%20RISK%20PLATFORM-8770D1?style=flat-square&labelColor=8770D1" width="100%"/>
+<img src="https://img.shields.io/badge/-AI%20DEPLOYMENT%20RISK%20PLATFORM-8770D1?style=flat-square&labelColor=8770D1" width="100%" height="26"/>
 
 Analyzes Git changes and predicts deployment risk using a Scikit-learn model, with dependency-graph analysis and Gemini-generated insights.
 
@@ -145,7 +145,7 @@ Analyzes Git changes and predicts deployment risk using a Scikit-learn model, wi
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/-HOSPITAL%20MANAGEMENT%20SYSTEM-D99A5B?style=flat-square&labelColor=D99A5B" width="100%"/>
+<img src="https://img.shields.io/badge/-HOSPITAL%20MANAGEMENT%20SYSTEM-D99A5B?style=flat-square&labelColor=D99A5B" width="100%" height="26"/>
 
 Four role-based portals covering appointments, e-consultancy, ambulance dispatch, blood-bank inventory, billing, and an AI chatbot — 500+ patient records.
 
@@ -158,7 +158,7 @@ Four role-based portals covering appointments, e-consultancy, ambulance dispatch
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/-NUTRITION%20%26%20FITNESS%20COMPANION-D99A5B?style=flat-square&labelColor=D99A5B" width="100%"/>
+<img src="https://img.shields.io/badge/-NUTRITION%20%26%20FITNESS%20COMPANION-D99A5B?style=flat-square&labelColor=D99A5B" width="100%" height="26"/>
 
 Tracks meals, weight, and nutrition toward personal goals, with a Gemini-powered AI coach and Supabase-backed cloud sync.
 
@@ -169,7 +169,7 @@ Tracks meals, weight, and nutrition toward personal goals, with a Gemini-powered
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/-LAUNDRY%20SERVICE%20BOOKING%20PLATFORM-8770D1?style=flat-square&labelColor=8770D1" width="100%"/>
+<img src="https://img.shields.io/badge/-LAUNDRY%20SERVICE%20BOOKING%20PLATFORM-8770D1?style=flat-square&labelColor=8770D1" width="100%" height="26"/>
 
 Customer-facing order booking with service selection, address management, OTP-verified admin access, and order tracking.
 
@@ -182,7 +182,7 @@ Customer-facing order booking with service selection, address management, OTP-ve
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/-COMPUTER%20VISION%20ATTENDANCE%20SYSTEM-8770D1?style=flat-square&labelColor=8770D1" width="100%"/>
+<img src="https://img.shields.io/badge/-COMPUTER%20VISION%20ATTENDANCE%20SYSTEM-8770D1?style=flat-square&labelColor=8770D1" width="100%" height="26"/>
 
 Facial-recognition attendance pipeline at ~90% detection accuracy, with automated logging and CSV export.
 
@@ -193,7 +193,7 @@ Facial-recognition attendance pipeline at ~90% detection accuracy, with automate
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/-STAFF%20MANAGEMENT%20PLATFORM-D99A5B?style=flat-square&labelColor=D99A5B" width="100%"/>
+<img src="https://img.shields.io/badge/-STAFF%20MANAGEMENT%20PLATFORM-D99A5B?style=flat-square&labelColor=D99A5B" width="100%" height="26"/>
 
 REST-based backend managing 1,000+ employee records with secure CRUD operations.
 
