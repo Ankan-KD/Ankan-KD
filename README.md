@@ -10,7 +10,7 @@
 
 <br><br>
 
-FULL-STACK DEVELOPER  •  AI / ML ENGINEER  •  CLOUD ENTHUSIAST
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7B2CFF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%2F+ML+Engineer;Cloud+%26+DevOps+Enthusiast;Building+CodePulse+%E2%80%94+AI+Risk+Platform;Turning+Ideas+Into+Shipped+Systems" alt="Typing SVG"/>
 
 <br>
 
@@ -38,6 +38,29 @@ My work spans AI-assisted developer tooling, hospital/healthcare management, nut
 <div align="center">
 <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics"/>
 </div>
+
+> LIVE STATS
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ankan-KD&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7b2cff&icon_color=ff7a00&text_color=c9d1d9&border_color=7b2cff&border_radius=10"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=Ankan-KD&background=0D1117&border=7B2CFF&stroke=7B2CFF&ring=FF7A00&fire=FF7A00&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681&border_radius=10"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ankan-KD&bg_color=0d1117&color=c9d1d9&line=7b2cff&point=ff7a00&area=true&area_color=7b2cff&title_color=7b2cff&border_color=7b2cff"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankan-KD&layout=compact&bg_color=0d1117&title_color=7b2cff&text_color=c9d1d9&border_color=7b2cff&border_radius=10&langs_count=8" height="180"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ankan-KD&theme=radical&no-frame=true&margin-w=8&margin-h=8&column=4&row=2" alt="trophies"/>
+
+</div>
+
+<sub align="center">
+
+These cards pull live data straight from the GitHub API — they update automatically as you push commits, gain stars, and build streaks, so this section never goes stale.
+
+</sub>
 
 > WHAT I BUILD
 
@@ -142,26 +165,26 @@ Four role-based portals (Admin / Doctor / Patient / Staff) covering appointments
 <tr>
 <td width="50%">
 
-**BODYBUDDY**
+**BODYBUDDY (BULKUP)**
 Goal-based nutrition companion
 
 Tracks meals, weight, and nutrition toward gain/lose/maintain goals, with a Gemini-powered AI coach for real-time "what can I eat right now?" guidance, streaks, and Supabase-backed cloud sync.
 
 `Next.js 15` `TypeScript` `Tailwind` `Supabase` `Gemini API`
 
-[→ Repo](https://github.com/Ankan-KD/weight-gain-tracker)
+[→ Repo](https://github.com/Ankan-KD/BulkUp)
 
 </td>
 <td width="50%">
 
-**SERVICEOPS — LAUNDRY PLATFORM**
+**KLEANZ — LAUNDRY SERVICE PLATFORM**
 Booking & tracking platform for laundry businesses
 
 Customer-facing order booking with service selection (laundry/dry cleaning), address management, OTP-verified admin access, order-status tracking, and subscription/contact handling.
 
 `Node.js` `Express` `MongoDB` `Nodemailer`
 
-[→ Repo](https://github.com/Ankan-KD/MINOR_PROJECT_BCA)
+[→ Repo](https://github.com/Ankan-KD/Kleanz-Laundry-Services)
 
 </td>
 </tr>
@@ -175,6 +198,8 @@ Facial-recognition attendance pipeline achieving ~90% detection accuracy, with a
 
 `Flask` `OpenCV` `face_recognition` `Python`
 
+[→ Repo](https://github.com/Ankan-KD/Face-recognition)
+
 </td>
 <td width="50%">
 
@@ -184,6 +209,8 @@ Employee records platform
 REST-based backend for managing 1,000+ employee records with secure CRUD operations, built for efficient day-to-day HR/staff administration.
 
 `JavaScript` `Node.js` `MongoDB`
+
+[→ Repo](https://github.com/Ankan-KD/Staff-Management-Project)
 
 </td>
 </tr>
