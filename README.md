@@ -50,10 +50,6 @@ My work spans AI-assisted developer tooling, hospital/healthcare management, nut
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankan-KD&layout=compact&bg_color=0d1117&title_color=7b2cff&text_color=c9d1d9&border_color=7b2cff&border_radius=10&langs_count=8" height="180"/>
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ankan-KD&theme=radical&no-frame=true&margin-w=8&margin-h=8&column=4&row=2" alt="trophies"/>
-
 </div>
 
 <sub align="center">
@@ -61,18 +57,6 @@ My work spans AI-assisted developer tooling, hospital/healthcare management, nut
 These cards pull live data straight from the GitHub API — they update automatically as you push commits, gain stars, and build streaks, so this section never goes stale.
 
 </sub>
-
-> CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankan-KD/Ankan-KD/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ankan-KD/Ankan-KD/output/snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Ankan-KD/Ankan-KD/output/snake.svg" width="100%"/>
-</picture>
-
-</div>
 
 > WHAT I BUILD
 
